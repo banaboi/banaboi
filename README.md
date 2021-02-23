@@ -11,7 +11,7 @@ I'm a forth year student pursuing Bachelors's in Computer Science and Mechatroni
 - 🏎️ I’m currently part of Sunswift Racing, building The University of New South Wales' Sunswift 7, a solar powered car
 - ✈️ I’m a former Engineering Analyst at Qantas Airways
 - 📫 How to reach me: lukebanicevic@gmail.com
-- 📝 Checkout my <a href="https://github.com/saribricka/saribricka/blob/main/CVJan2021.pdf">Resume</a>
+- 📝 Checkout my <a href="https://github.com/banaboi/banaboi/blob/main/Luke Banicevic 2021.pdf">Resume</a>
 - ♟️ I love chess and gym 
 
 ### 🛠 Languages and Tools
