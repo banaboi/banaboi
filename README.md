@@ -6,7 +6,7 @@ I'm a forth year student pursuing Bachelors's in Computer Science and Mechatroni
 
 ### 👦 💻 Personal Projects
 - 🤖 I’m currently working on CryptoBotLB, a OOP project in Python
-- 🛍️ I'm developing an ecommerce store using JavaScript, Node, PostgresSQL and Boostrap 
+- 🛍️ I'm developing an ecommerce store using JavaScript, Node, PostgreSQL and Boostrap 
 - 🏎️ I’m currently part of Sunswift Racing, building The University of New South Wales' Sunswift 7, a solar powered car
 - ✈️ I’m a former Engineering Analyst at Qantas Airways
 - 📫 How to reach me: lukebanicevic@gmail.com
