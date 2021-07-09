@@ -2,11 +2,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luke-banicevic-30860115b/)
 
-I'm a forth year student pursuing Bachelors's in Computer Science and Mechatronic Engineering 🎓 from Sydney - University of New South Wales 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-world problems ✨💻. I'm currently into Web Development, Embedded Systems, Objected-Oriented Programming, Automation, Trading 💰 and working on my Data Structures and Algorithms 🤓. 
+I'm a forth year student pursuing Bachelors's in Computer Science and Mechatronic Engineering 🎓 from Sydney - University of New South Wales 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-world problems ✨💻. I'm currently into Robotics, Embedded Systems and Objected-Oriented Programming. 
 
 ### 👦 💻 Personal Projects
-- 🤖 I’m currently working on CryptoBotLB, a OOP Python project built to analyse the Crypto market
-- 🛍️ I'm developing an ecommerce store using JavaScript, Node, PostgreSQL and Boostrap 
 - 🏎️ I’m currently part of Sunswift Racing, building The University of New South Wales' Sunswift 7, a solar powered car
 - ✈️ I’m a former Engineering Analyst at Qantas Airways
 - 📫 How to reach me: lukebanicevic@gmail.com
